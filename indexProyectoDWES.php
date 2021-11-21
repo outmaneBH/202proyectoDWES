@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OUTMANE BOUHOU:ProyectoDWES</title>
+    <link rel="icon" href="../webroot/media/img/fav.ico" type="image/ico" sizes="16x16">
     <link rel="stylesheet" type="text/css" href="webroot/css/main.css">
     <link rel="stylesheet" type="text/css" href="../webroot/css/proyectoTema3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -22,18 +23,22 @@
 
         <ul id="ulli" class="w3-ul w3-card-4">
             <p>
-                <li class="w3-display-container">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</li>
-            </p>
-            <p>
-                <li class="w3-display-container">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE
-                    DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</li>
+                <li class="w3-display-container"><a style="color: blue;"
+                                                    href="doc/EstudioTema1.pdf">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
             </p>
             <p>
                 <li class="w3-display-container"><a style="color: blue;"
-                                                    href="/proyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
+                                                    href="#">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE
+                        DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
             </p>
             <p>
-                <li class="w3-display-container">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</li>
+                <li class="w3-display-container"><a style="color: blue;"
+                                                    href="../202DWESproyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
+            </p>
+            <p>
+                  <li class="w3-display-container"><a style="color: blue;"
+                                                      href="../202DWESproyectoTema4/indexProyectoTema4.php">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a></li>
+              
             </p>
             <p>
                 <li class="w3-display-container">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</li>
@@ -49,13 +54,13 @@
             </p>
 
         </ul>
-        <!--<?php
-highlight_file("test.php");
-?>-->
     </div>
+     <div style="margin-bottom: 9%; ">
+
+        </div>
     <footer>
         <p>Copyrights © 2021 OUTMANE BOUHOU. All rights reserved.</p>
-       <a href="https://github.com/outmaneBH/proyectoDAW" target="_blank" ><img id="git" src="../webroot/media/img/git.png" alt="Github"/></a>
+       <a href="https://github.com/outmaneBH/202proyectoDWES" target="_blank" ><img id="git" src="../webroot/media/img/git.png" alt="Github"/></a>
     </footer>
 </body>
 
