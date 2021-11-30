@@ -1,0 +1,20 @@
+/*footer*/
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(9, 184, 175);
+    color: white;
+    text-align: center;
+    height: 60px;
+    
+}
+footer p{
+    font-weight:bold;
+}
+#git{
+    position: fixed;
+    right: 0;
+    bottom: 8px;
+}
