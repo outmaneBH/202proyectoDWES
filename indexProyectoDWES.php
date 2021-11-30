@@ -49,7 +49,7 @@
             <ul id="ulli" class="w3-ul w3-card-4">
 
                 <li class="w3-display-container"><a style="color: blue;"
-                                                    href="doc/EstudioTema1.pdf">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                                                    href="doc/EstudioTema1.pdf" target="_blank" >TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
 
                 <li class="w3-display-container">
                      <div class="w3-dropdown-click" style="background: none;">
